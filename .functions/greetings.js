@@ -1,5 +1,5 @@
 //GET Request to
-export const onRequest = () => {
+export const onRequestGet = () => {
   return new Response("Hellow World");
 }
 
